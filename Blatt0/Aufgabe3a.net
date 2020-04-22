@@ -1,0 +1,7 @@
+* C:\UNI\Elektronik2020\Blatt0\Aufgabe3a.asc
+R1 N002 N001 1k
+C1 N002 0 100n
+V1 N001 0 5 AC 5
+.ac lin 100 100 100k
+.backanno
+.end
